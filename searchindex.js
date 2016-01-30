@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{index:0,search:0,welcom:0,modul:0,indic:0,websit:0,content:0,tabl:0,meineck:0,page:0,juergen:0},objtypes:{},titles:["Welcome to Juergen Meinecke&#8217;s Website!!"],objnames:{},filenames:["index"]})
