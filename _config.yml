@@ -1,2 +1,32 @@
-markdown: kramdown
-highlighter: rouge
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Poole
+tagline:             The Jekyll Butler
+url:                 http://juergenmeinecke.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/juergenmeinecke/juergenmeinecke.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
